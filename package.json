@@ -22,5 +22,9 @@
     "react-dom": "^18.2.0",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.1.6"
+  },
+  "devDependencies": {
+    "@stackbit/cms-contentful": "^0.4.43",
+    "@stackbit/types": "^0.11.7"
   }
 }
